@@ -164,6 +164,9 @@ The example below illustrates Flux usage with the Maven shade plugin:
 </build>
  ```
 
+### Building
+Ensure both Python and Node are installed or the unit tests must be omitted.
+
 ### Deploying and Running a Flux Topology
 Once your topology components are packaged with the Flux dependency, you can run different topologies either locally
 or remotely using the `storm jar` command. For example, if your fat jar is named `myTopology-0.1.0-SNAPSHOT.jar` you
