@@ -1,3 +1,7 @@
+#NOTICE -- Flux Has Moved
+This project has now been incorporated into Apache Storm and will be maintained there: 
+https://github.com/apache/storm/tree/master/external/flux
+
 # flux
 A framework for creating and deploying Apache Storm streaming computations with less friction.
 
